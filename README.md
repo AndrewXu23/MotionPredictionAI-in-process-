@@ -17,5 +17,6 @@
                       is in progress...
 
 AI will be involved in this project to predict the user's next movement.
+MediaPipe Pose is developed by Google, and can be accessed by link: https://google.github.io/mediapipe/solutions/pose.html
 
 Still in process...
